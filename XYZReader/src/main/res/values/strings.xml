@@ -5,5 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
     <string name="swipe_action">Swipe left or right to browse!</string>
+    <string name="check_connection">Please check internet connection to continue</string>
     <string name="up">Up</string>
+    <string name="loading_article">Loading. Please wait....</string>
 </resources>
